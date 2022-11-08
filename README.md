@@ -7,8 +7,8 @@ Tomando como referencia la página https://pokemondb.net/pokedex/all, nos enfoca
 
 Miembros del Grupo:
 
-Daniela Maidana (danielamaidana@gmail.com)
-Carolina Margheim (caro08@gmail.com)
-Jorge Antonio Marchisone (jormemarchisone@gmail.com)
-Mauricio Horacio Zenere (zeneremauricio@yahoo.com.ar - https://github.com/MauriZenere )
+1. Daniela Maidana (danielamaidana@gmail.com)
+2. Carolina Margheim (caro08@gmail.com)
+3. Jorge Antonio Marchisone (jormemarchisone@gmail.com)
+4. Mauricio Horacio Zenere (zeneremauricio@yahoo.com.ar - https://github.com/MauriZenere )
 
