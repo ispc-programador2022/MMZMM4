@@ -1,5 +1,6 @@
 # MMZMM4 "POKEMON DATASET"
 Grupo de Proyecto Integrador - Grupo Alfa.
+![pokemon](https://user-images.githubusercontent.com/100360569/202268384-11596591-d66f-4952-a7bf-7a3ed7aacbb4.jpg)
 
 Python - PowerBi
 
