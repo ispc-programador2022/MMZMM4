@@ -1,6 +1,7 @@
-# MMZMM4 "POKEMON DATASET"
+# MMZMM4 "POKEMON DATASET" 
+
 Grupo de Proyecto Integrador - Grupo Alfa.
-![pokemon](https://user-images.githubusercontent.com/100360569/202268384-11596591-d66f-4952-a7bf-7a3ed7aacbb4.jpg)
+
 
 Python - PowerBi
 
@@ -14,4 +15,6 @@ Miembros del Grupo:
 2. Carolina Margheim (caro08.m@gmail.com)
 3. Jorge Antonio Marchisone (jorgemarchisone@gmail.com)
 4. Mauricio Horacio Zenere (zeneremauricio@yahoo.com.ar - https://github.com/MauriZenere )
+
+![pokemon](https://user-images.githubusercontent.com/100360569/202269150-ce1ee5e1-e055-4576-87cd-fc6dcfa2f9f8.jpg)
 
