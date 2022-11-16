@@ -1,4 +1,4 @@
-# MMZMM4 "COMBATE POKEMON"
+# MMZMM4 "POKEMON DATASET"
 Grupo de Proyecto Integrador - Grupo Alfa.
 
 Python - PowerBi
